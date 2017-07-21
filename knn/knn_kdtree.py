@@ -57,7 +57,7 @@ for x in X_test:
         correct_num += 1
     i += 1
 
-acc = float(correct_num / len(Y_test))
+acc = float(correct_num / len(Y_test) * 100)
 print("Test: "+str(len(Y_test)))
 print("Correct: "+str(correct_num))
 print("acc: "+str(acc))
