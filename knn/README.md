@@ -20,6 +20,7 @@ P* <= P <= 2P*
 
 对于KNN，当样本数据量充足时，k-近邻法的错误率要低于最近邻法。
 
+![knn error](https://github.com/BUAAQingYuan/MachineLearning/raw/master/knn/knn_error.jpg)
 
 
 #### Reference
